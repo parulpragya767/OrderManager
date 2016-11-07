@@ -5,7 +5,7 @@ package com.walmart.demo.cart;
  */
 public class TestCart {
     public static void main(String[] args) {
-        System.out.println("Hello Cart!!");
+        System.out.println("Hello!!");
     }
 
 }
